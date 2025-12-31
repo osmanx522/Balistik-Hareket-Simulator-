@@ -3,19 +3,16 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=pandas&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 Bu proje, temel kinematik prensiplerini kullanarak 2D uzayda eğik atış (projectile motion) hareketini simüle eden ve görselleştiren bir Python uygulamasıdır. **NumPy**'ın vektörel işlem gücü ve **Matplotlib**'in görselleştirme yetenekleri kullanılarak, mühimmatın yörüngesi, uçuş süresi ve menzili yüksek hassasiyetle hesaplanır.
 
-Savunma sanayii algoritmaları ve fizik simülasyonları üzerine geliştirilecek daha kapsamlı bir ekosistemin (Roadmap) ilk adımıdır.
+Savunma sanayi algoritmaları ve fizik simülasyonları üzerine geliştirilecek daha kapsamlı bir ekosistemin (Roadmap) ilk adımıdır.
 
 ---
 
 ## 📸 Örnek Çıktı
 
-*(Projeni çalıştırıp aldığın grafiğin ekran görüntüsünü buraya ekleyebilirsin. Resmi 'assets' adında bir klasör açıp içine koy ve aşağıdaki yolu güncelle)*
-
-![Simülasyon Grafiği](assets/Figure 2026-01-01 000333.png)
+![Simülasyon Grafiği](assets/ornek.png)
 
 > **Not:** Grafikler `Equal Aspect Ratio` (Eşit Ölçekleme) ile çizildiği için mühimmatın gerçek fiziksel yörüngesini birebir yansıtır.
 
